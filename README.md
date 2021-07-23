@@ -32,8 +32,8 @@ I am a passionate person and I love what I do. I help designers, small agencies 
 
 [<img width="350" src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/track/0uXQpEJemFp9z0OJvecPwu?si=7199fe9d42cb41ee)
 <br>
-📈 my github stats
 
+📈 my github stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=faizp&show_icons=true&theme=gotham" alt="faizp" />
 
 
