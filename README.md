@@ -30,7 +30,15 @@ I am a passionate person and I love what I do. I help designers, small agencies 
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-[<img width="350" src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/track/0uXQpEJemFp9z0OJvecPwu?si=7199fe9d42cb41ee)
+📊 **i spent most of my time on:**
+<!--START_SECTION:waka-->
+```text
+Python       ███████████████░░░░░░░░░░   60.00 % 
+JavaScripts  ███████░░░░░░░░░░░░░░░░░░   29.95 % 
+HTML         █▓░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+CSS          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+```
+<!--END_SECTION:waka-->
 <br>
 
 📈 my github stats
