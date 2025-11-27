@@ -8,9 +8,6 @@
 hi, i'm [Faiz P](https://faizp.in/), a passionate self-taught web developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am a passionate person and I love what I do. I help designers, small agencies and bussinesses bring their idea to life. I turn your requirments into websites - on time and on budget.
-
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:faizkizhisseri@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
