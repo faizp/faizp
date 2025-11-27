@@ -17,34 +17,4 @@ I am a passionate person and I love what I do. I help designers, small agencies 
 
 
 
-**languages and tools:**  
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://storage.googleapis.com/cw-p1w5jpim0sdhkccw8gr/media/blog-images/drf-logo2.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-📊 **i spent most of my time on:**
-<!--START_SECTION:waka-->
-```text
-Python       ███████████████░░░░░░░░░░   60.00 % 
-JavaScripts  ███████░░░░░░░░░░░░░░░░░░   29.95 % 
-HTML         █▓░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
-CSS          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-```
-<!--END_SECTION:waka-->
-<br>
-
-📈 my github stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=faizp&show_icons=true&theme=gotham" alt="faizp" />
-
-
-
-
 
