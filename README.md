@@ -5,5 +5,5 @@ I'm Faiz — Senior Software Engineer at [Tessact](https://tessact.ai), building
 **Open source:**
 - [OpenRTC](https://github.com/faizp/OpenRTC) — Self-hosted realtime layer for SaaS teams (Go, TypeScript, Python)
 - [ZenList](https://github.com/faizp/ZenList) — Full-stack task management with Go + GraphQL + React + PostgreSQL
-**Community:** Chief Creative Officer at [Pygrammers](https://pygrammers.org) — 400K+ member Python community from Kerala
+**Community:** Chief Creative Officer at [Pygrammers](https://pygrammers.org) — Python community from Kerala
 📫 [faizp.space](https://faizp.space) · [LinkedIn](https://linkedin.com/in/faiz-p) · [X](https://twitter.com/sanu_faiz)
