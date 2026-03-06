@@ -1,17 +1,9 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Linkedin Badge](https://img.shields.io/badge/-faizp-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faiz-p/)](https://www.linkedin.com/in/faiz-p/)
-[![Website Badge](https://img.shields.io/badge/-faizp.space-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://faizp.space)
-[![Twitter Badge](https://img.shields.io/badge/-@sanu_faiz-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_jesslim)](https://twitter.com/sanu_faiz)
-[![Instagram Badge](https://img.shields.io/badge/-@fxizp-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/jlim_slam/)](https://instagram.com/fxizp)
-[![Gmail Badge](https://img.shields.io/badge/-faizp-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:faizp.dev@gmail.com)
-
-hi, i'm [Faiz P](https://faizp.in/), a passionate self-taught web developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-
-I am a passionate person and I love what I do. I help designers, small agencies and bussinesses bring their idea to life. I turn your requirments into websites - on time and on budget.
-  
-- 💼 any freelance work? do reach, [email](mailto:faizp.dev@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
-
-
-
-
+### hey 👋
+I'm Faiz — Senior Software Engineer at [Tessact](https://tessact.ai), building AI-powered video platforms from the ground up.
+4.8+ years deep into backend systems — video processing pipelines, ML model deployment, search infrastructure, and cloud architecture on AWS and GCP.
+**What I work with:** Python, Go, FastAPI, Django, PostgreSQL, ElasticSearch, Docker, Kubernetes, FFmpeg, AWS (SageMaker, ECS, EKS, Rekognition, Elemental), GCP (Vertex AI), Terraform
+**Open source:**
+- [OpenRTC](https://github.com/faizp/OpenRTC) — Self-hosted realtime layer for SaaS teams (Go, TypeScript, Python)
+- [ZenList](https://github.com/faizp/ZenList) — Full-stack task management with Go + GraphQL + React + PostgreSQL
+**Community:** Chief Creative Officer at [Pygrammers](https://pygrammers.org) — 400K+ member Python community from Kerala
+📫 [faizp.space](https://faizp.space) · [LinkedIn](https://linkedin.com/in/faiz-p) · [X](https://twitter.com/sanu_faiz)
